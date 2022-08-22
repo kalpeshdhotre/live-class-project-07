@@ -186,6 +186,11 @@ img[src="./images/plus.svg"] {
 @media (max-width: 768px) {
     .nav-items {
         display: none;
+
+    }
+    nav{
+        margin: 1em 0 8em 0;
+        
     }
 
     .intro-section {
@@ -200,7 +205,7 @@ img[src="./images/plus.svg"] {
     img[src="./images/actions.svg"] {
         /* margin-right: 0px; */
         /* border: solid;     */
-        /* width: 250px; */
+        width: 10em;        
         /* overflow: hidden; */
     }
 
