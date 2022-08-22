@@ -186,11 +186,9 @@ img[src="./images/plus.svg"] {
 @media (max-width: 768px) {
     .nav-items {
         display: none;
-
     }
-    nav{
+    nav {
         margin: 1em 0 8em 0;
-        
     }
 
     .intro-section {
@@ -205,7 +203,7 @@ img[src="./images/plus.svg"] {
     img[src="./images/actions.svg"] {
         /* margin-right: 0px; */
         /* border: solid;     */
-        width: 10em;        
+        width: 10em;
         /* overflow: hidden; */
     }
 
@@ -213,7 +211,7 @@ img[src="./images/plus.svg"] {
         /* max-width: 1400px;     */
         width: 80vw;
     }
-    .sub-headlines{
+    .sub-headlines {
         margin: 5px;
     }
 
@@ -221,7 +219,7 @@ img[src="./images/plus.svg"] {
         padding: 25px;
         margin-left: 15px;
     } */
-    .sub-headline{
+    .sub-headline {
         font-size: 6vw;
         margin-left: 6vw;
     }
@@ -243,10 +241,10 @@ img[src="./images/plus.svg"] {
         position: absolute;
         transform: translate(-3em, -12em);
     }
-    
+
     .discount-content {
         position: absolute;
-        transform: translate(-3em,-12em);
+        transform: translate(-3em, -12em);
         font-family: poppins;
     }
 }
